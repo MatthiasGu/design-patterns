@@ -8,7 +8,7 @@
 ## Example
 In my example the participants are represented as following:
 - Context: [CasifyContext](./CasifyContext.java)
-- Strategy Interface: [CaseStrategy](./strategies/CaseStrategy)
+- Strategy Interface: [CaseStrategy](./strategies/CaseStrategy.java)
 - Concrete Strategies: [CamelCaseStrategy](./strategies/CamelCaseStrategy.java),
 [PascalCaseStrategy](./strategies/PascalCaseStrategy.java),
 [SentenceCaseStrategy](./strategies/SentenceCaseStrategy.java),
