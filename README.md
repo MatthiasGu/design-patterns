@@ -25,6 +25,6 @@
 - Memento
 - Observer
 - State
-- Strategy
+- [Strategy](./src/com/jihyunum/patterns/behavioral/strategy)
 - [Template Method](./src/com/jihyunum/patterns/behavioral/template_method)
 - Visitor
